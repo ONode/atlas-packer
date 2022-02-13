@@ -1,5 +1,3 @@
-
-
 A command line utility to pack a collections of sprites into a larger image.
 
 * Usage

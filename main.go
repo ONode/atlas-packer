@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zan-xhipe/atlas-packer/packer"
+	"github.com/ONode/atlas-packer/packer"
 )
 
 func main() {
