@@ -28,3 +28,5 @@ A command line utility to pack a collections of sprites into a larger image.
   - More export types
   - Sprite rotation
   - Automatic atlas size
+
+* MIT license
